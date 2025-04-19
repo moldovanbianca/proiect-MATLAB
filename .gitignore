@@ -1,0 +1,41 @@
+# MATLAB specific
+*.asv
+*.aut
+*.bak
+*.blg
+*.log
+*.mex*
+*.mat
+*.mexa64
+*.p
+*.swp
+*.fig
+*.slx
+*.mdl
+*.mlapp
+*.mexmaci64
+*.mcr
+*.prj
+*.tlog
+*.tbm
+*.rpt
+*.xfig
+*.ps
+*.eps
+*.pdf
+
+# User-specific files
+*.local
+*.matlab
+
+# MATLAB deployment folder
+deploy/
+
+# MATLAB temporary folder
+temp/
+
+# MATLAB code coverage reports
+cov/
+
+# Simulink generated files
+_sim/
